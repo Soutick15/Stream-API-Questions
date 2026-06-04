@@ -1,0 +1,1 @@
+This repository contains stream API questions for both learning and interview practicing. Practicing this helps you understand how to write complex SQL-like queries using the Stream API, and clears concepts for both database querying and problem-solving.
